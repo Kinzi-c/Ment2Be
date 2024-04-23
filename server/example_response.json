@@ -1,0 +1,106 @@
+{
+  "skills": [
+    "Written Communication",
+    "Communication",
+    "Android",
+    "Robot C",
+    "Robotics",
+    "Robot Programming",
+    "Student Development",
+    "Cross-functional Team Leadership",
+    "Stakeholder Management",
+    "Problem Solving",
+    "Team Leadership",
+    "Technical Documentation",
+    "Technical Writing",
+    "Managing Meetings",
+    "Programming",
+    "Public Speaking",
+    "Team Management",
+    "JavaScript",
+    "Object-Oriented Programming (OOP)",
+    "Assistant Teaching"
+  ],
+  "certifications": {},
+  "patents": {},
+  "test_scores": {},
+  "network_info": null,
+  "awards": [
+    {
+      "issuer": "Richard Hartzell (Principal) & Andrew Lowman (Associate Principal) [Taipei American School]",
+      "title": "Warren Manning Award",
+      "date": [null],
+      "description": "Awarded to students who have exhibited outstanding growth academically, socially, and personally throughout the school year. "
+    },
+    {
+      "issuer": "Matthew Fagen (Computer Science and Robotics Department Chair) & Richard Hartzell (Principal) [Taipei American School]",
+      "title": "Creative Robotics Engineering",
+      "date": [null],
+      "description": "In recognition of outstanding achievement in Robotics and Engineering. "
+    }
+  ],
+  "organizations": {},
+  "summary": "Hello I'm Tarun and I'm a final year student at AUT. I'm passionate about Computer Science and Leadership. I'm looking for graduate roles or internships in Software Engineering.",
+  "volunteer_experiences": {},
+  "premium": false,
+  "birth_date": null,
+  "location": {
+    "short": "Auckland, Auckland",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "default": "Auckland, Auckland, New Zealand",
+    "state": "Auckland"
+  },
+  "position_groups": [
+    {
+      "profile_positions": [null],
+      "date": [null],
+      "company": [null]
+    },
+    {
+      "profile_positions": [null],
+      "date": [null],
+      "company": [null]
+    }
+  ],
+  "courses": {},
+  "entity_urn": "ACoAAClkxdkBUqMdq4TRL9paRYNIhXVkoFeyARM",
+  "publications": {},
+  "first_name": "Tarun",
+  "influencer": false,
+  "contact_info": null,
+  "sub_title": "Looking for Graduate Software Development roles",
+  "profile_picture": null,
+  "last_name": "R",
+  "object_urn": 694470105,
+  "education": [
+    {
+      "field_of_study": "Software Engineering",
+      "degree_name": "Bachelor of Science - BS",
+      "date": [null],
+      "school": [null]
+    },
+    {
+      "field_of_study": "Computer Science",
+      "degree_name": "High School Diploma",
+      "date": [null],
+      "school": [null]
+    }
+  ],
+  "related_profiles": null,
+  "profile_id": "tarunram01",
+  "info": "For high-volume use of our LinkedIn API, visit https://iscraper.io or send an email at sales@iscraper.io to discuss the pricing.",
+  "treasury_media": {},
+  "background_image": "https://media.licdn.com/dms/image/D5616AQFHlUqWdPaE4Q/profile-displaybackgroundimage-shrink_350_1400/0/1685061368143?e=1697068800&v=beta&t=jZrYFANIVbx83pYOZ4yep62mlMTfCR9iPD3qP42IZi4",
+  "languages": {
+    "profile_languages": [[null], [null], [null]],
+    "primary_locale": {
+      "country": "US",
+      "language": "en"
+    },
+    "supported_locales": [[null]]
+  },
+  "industry": "Computer Software",
+  "projects": {},
+  "profile_type": "personal"
+}
